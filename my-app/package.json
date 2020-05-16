@@ -35,6 +35,7 @@
     ]
   },
   "devDependencies": {
-    "@types/yup": "^0.28.3"
+    "@types/yup": "^0.28.3",
+    "cypress": "^4.5.0"
   }
 }
